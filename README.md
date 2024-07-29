@@ -1,0 +1,1 @@
+Un script de python para visualizar un poco la bolsa de trabajo en Indeed, cabe aclarar que las muestras que consigas probablemente sean muy pequeñas, y queda a tu propio riesgo ser baneado de la plataforma de Indeed

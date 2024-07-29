@@ -1,0 +1,4 @@
+selenium
+matplotlib
+pandas
+selenium_stealth
